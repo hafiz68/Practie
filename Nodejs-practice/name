@@ -1,0 +1,62 @@
+[
+    {
+        "Date": "7/5/2021",
+        "Count": 3,
+        "Total Charges": 18.9,
+        "Shipments": [
+            {
+                "code": "NA001-001",
+                "charges": 0
+            },
+            {
+                "code": "AC002-002",
+                "charges": 13
+            },
+            {
+                "code": "CO003-003",
+                "charges": 5.9
+            }
+        ]
+    },
+    {
+        "Date": "7/6/2021",
+        "Count": 2,
+        "Total Charges": 0,
+        "Shipments": [
+            {
+                "code": "NA004-001",
+                "charges": 0
+            },
+            {
+                "code": "NA005-001",
+                "charges": 0
+            }
+        ]
+    },
+    {
+        "Date": "7/7/2021",
+        "Count": 1,
+        "Total Charges": 33,
+        "Shipments": [
+            {
+                "code": "AC006-002",
+                "charges": 33
+            }
+        ]
+    },
+    {
+        "Date": "7/8/2021",
+        "Count": 2,
+        "Total Charges": 61.85,
+        "Shipments": [
+            {
+                "code": "CO007-003",
+                "charges": 28.85
+            },
+            {
+                "code": "AC008-004",
+                "charges": 33
+            }
+        ]
+    }
+]
